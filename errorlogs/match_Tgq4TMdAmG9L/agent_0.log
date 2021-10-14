@@ -1,0 +1,10 @@
+=== Agent Install Log ===
+=== Agent Compile Log ===
+=== Agent Error Log ===
+Traceback (most recent call last):
+  File "C:\Users\zburn\Documents\LuxAI_Comp\RedBotv1\main.py", line 32, in <module>
+    actions = agent(observation, None)
+  File "C:\Users\zburn\Documents\LuxAI_Comp\RedBotv1\agent.py", line 61, in agent
+    if unit.pos == closest_empty_tile.pos:
+AttributeError: 'NoneType' object has no attribute 'pos'
+Agent timed out

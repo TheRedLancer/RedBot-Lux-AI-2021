@@ -1,0 +1,12 @@
+=== Agent Install Log ===
+=== Agent Compile Log ===
+=== Agent Error Log ===
+Traceback (most recent call last):
+  File "C:\Users\zburn\Documents\LuxAI_Comp\RedBotv1\main.py", line 32, in <module>
+    actions = agent(observation, None)
+  File "C:\Users\zburn\Documents\LuxAI_Comp\RedBotv1\agent.py", line 60, in agent
+    closest_empty_tile = utils.find_empty_tile(unit, closest_city, game_state.map)
+  File "C:\Users\zburn\Documents\LuxAI_Comp\RedBotv1\utils.py", line 14, in find_empty_tile
+    for city_tile in closest_city.city_tiles:
+AttributeError: 'City' object has no attribute 'city_tiles'. Did you mean: 'citytiles'?
+Agent timed out
