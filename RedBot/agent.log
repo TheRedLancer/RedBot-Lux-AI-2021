@@ -1,0 +1,1686 @@
+INFO:root:u_1 notice has <function get_resource at 0x000001FFFA12D5A0> mission
+INFO:root:u_1 notice has <function get_resource at 0x0000012DBE4DD5A0> mission
+INFO:root:u_1 notice has <function get_resource at 0x0000012DBE4DD5A0> mission
+INFO:root:u_1 notice has <function get_resource at 0x0000012DBE4DD5A0> mission
+INFO:root:u_1 notice has <function get_resource at 0x0000012DBE4DD5A0> mission
+INFO:root:u_1 notice has <function get_resource at 0x0000012DBE4DD5A0> mission
+INFO:root:u_1 notice has <function get_resource at 0x0000012DBE4DD5A0> mission
+INFO:root:u_1 notice has <function get_resource at 0x0000012DBE4DD5A0> mission
+INFO:root:u_1 notice has <function get_resource at 0x0000012DBE4DD5A0> mission
+INFO:root:u_1 notice has <function get_resource at 0x0000012DBE4DD5A0> mission
+INFO:root:u_1 notice city has 600.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 600.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 700.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 654.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 608.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 562.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 516.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice has <function get_resource at 0x0000012DBE4DD5A0> mission
+INFO:root:u_1 notice city has 570.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 570.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 670.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 770.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 770.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 870.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 970.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 970.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 1070.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 1070.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 1170.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 1147.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 1201.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 1086.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 1040.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 1140.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 1240.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 1340.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 1440.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 1540.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 1640.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 1740.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 1840.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 1940.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 2040.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 1994.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 1948.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 1902.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 1856.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 1810.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 1910.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 2010.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 2110.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 2210.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 2310.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 2410.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 2510.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 2610.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 2710.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 2810.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 2764.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 2718.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 2672.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 2626.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 2580.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 2680.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 2780.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 2880.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 2980.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 3080.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 3180.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 3280.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 3380.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 3480.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 3580.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 3534.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 3488.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 3442.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 3396.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 3350.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 3450.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 3550.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 3650.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 3750.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 3850.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 3950.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 4050.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 4150.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 4250.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 4350.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 4304.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 4258.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 4212.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 4166.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 4120.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 4220.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 4320.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 4420.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 4520.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 4620.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 4720.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 4820.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 4920.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 5020.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 5120.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 5074.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 5028.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 4982.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 4936.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 4890.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 4990.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 5090.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 5190.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 5290.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 5390.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 5490.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 5590.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 5690.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 5790.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 5890.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 5844.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 5798.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 5752.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 5706.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 5660.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 5760.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 5860.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 5960.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 6060.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 6160.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 6260.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 6360.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 6460.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 6560.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 6660.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 6614.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 6568.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 6522.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 6476.0 fuel
+INFO:root:u_1 notice has <function build_city at 0x0000012DBE4DD510> mission
+INFO:root:u_1 notice city has 6430.0 fuel
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city needs fuel
+INFO:root:u_1 notice has <function get_resource at 0x0000022F96DFD510> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city needs fuel
+INFO:root:u_1 notice has <function get_resource at 0x0000022F96DFD510> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city needs fuel
+INFO:root:u_1 notice has <function get_resource at 0x0000022F96DFD510> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city needs fuel
+INFO:root:u_1 notice has <function get_resource at 0x0000022F96DFD510> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city needs fuel
+INFO:root:u_1 notice has <function get_resource at 0x0000022F96DFD510> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city needs fuel
+INFO:root:u_1 notice has <function get_resource at 0x0000022F96DFD510> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city needs fuel
+INFO:root:u_1 notice has <function get_resource at 0x0000022F96DFD510> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city needs fuel
+INFO:root:u_1 notice has <function get_resource at 0x0000022F96DFD510> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city needs fuel
+INFO:root:u_1 notice has <function get_resource at 0x0000022F96DFD510> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 600.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E40460>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 600.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E17910>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 577.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E27A60>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city needs fuel
+INFO:root:u_1 notice has <function get_resource at 0x0000022F96DFD510> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city needs fuel
+INFO:root:u_1 notice has <function get_resource at 0x0000022F96DFD510> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city needs fuel
+INFO:root:u_1 notice has <function get_resource at 0x0000022F96DFD510> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city needs fuel
+INFO:root:u_1 notice has <function get_resource at 0x0000022F96DFD510> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city needs fuel
+INFO:root:u_1 notice has <function get_resource at 0x0000022F96DFD510> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 570.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E259F0>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 570.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E54430>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 570.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96B5C7C0>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 630.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96B5C7C0>
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 630.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96B55A20>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 730.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E36DA0>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 730.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E36DA0>
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 830.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E5AA10>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 830.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E5AA10>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 1030.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E4A440>
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 1030.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E23370>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 1130.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E234C0>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 1130.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E234C0>
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 1194.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96B4F640>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 1194.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96B4F640>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 1122.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E1DE10>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 1122.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E1DE10>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 1050.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E1DE10>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 1050.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E1DE10>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 978.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E1C520>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 978.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E1C520>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 906.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E1CB50>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 906.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E1CB50>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 870.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E24490>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 870.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E24490>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 1070.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E579A0>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 1070.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E579A0>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 1270.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E579A0>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 1270.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E579A0>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 1270.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96B5EFE0>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 1270.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96B5EFE0>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 1470.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E1FA30>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 1470.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E1FA30>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 1670.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E1EAA0>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 1670.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E1EAA0>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 1670.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E20A90>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 1670.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E20A90>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 1870.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E278E0>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 1870.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E278E0>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 2070.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96B54910>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 2070.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96B54910>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 2070.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E3B340>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 2070.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E3B340>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 2270.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E2FB80>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 2270.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E2FB80>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 2470.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E2FDF0>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 2470.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E2FDF0>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 2290.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E4CDF0>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 2290.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E4CDF0>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 2218.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E25E70>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 2218.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E25E70>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 2146.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E24D60>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 2146.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E24D60>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 2110.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E24D60>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 2110.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E24D60>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 2310.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E5AB00>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 2310.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E5AB00>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 2410.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E5B430>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 2410.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E5B430>
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 2510.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E5A4A0>
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 2510.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96B54040>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 2610.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E1FB20>
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 2610.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E0BCA0>
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 2610.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E1FB20>
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 2810.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E0A650>
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 2810.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E26EC0>
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 2810.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96B5C850>
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 2910.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E262C0>
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3010.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E26EC0>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3010.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E26EC0>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3110.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96B57C70>
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3110.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E4AB30>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3110.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96B4C340>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3110.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96B4C340>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3310.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96B5C0D0>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3310.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96B5C0D0>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3410.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96B5C0D0>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3410.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96B5C0D0>
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3338.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E22B30>
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3266.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E22B30>
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3230.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E2F370>
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3194.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E23910>
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3158.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E08FA0>
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3122.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E23CD0>
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3086.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E0AE60>
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3050.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E4E320>
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3050.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E0B280>
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3250.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E4F970>
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3250.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E58BB0>
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3250.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96B6BB80>
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3350.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E58A90>
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3350.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E25210>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3450.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E253C0>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3550.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E4BCD0>
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3574.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E4A950>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3574.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96B57520>
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3774.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E4BCD0>
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3774.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E3A4D0>
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3874.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96B6E3B0>
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3974.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E37FD0>
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 4074.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E39B70>
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 4174.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E39B70>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 4174.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E39B70>
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 4274.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E37FD0>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 4274.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E37FD0>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 4474.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96B5C6D0>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 4474.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96B5C6D0>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 4674.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96B5C6D0>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 4638.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E56C80>
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 4566.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E55BD0>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 4494.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E55BD0>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 4494.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E55BD0>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 4422.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E54E80>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 4422.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E54E80>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 4350.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E55BD0>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 4350.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E55BD0>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 4314.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E54B50>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 4314.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E54B50>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 4514.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E37250>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 4514.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E37250>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 4714.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E37250>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 4714.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E398D0>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 4714.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E56980>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 4714.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E1E6B0>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 4714.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E574C0>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 4714.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96B566E0>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 4814.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E1FE20>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 4814.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E1FE20>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 4814.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96E1FE20>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 4814.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96B55480>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 4814.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96B55480>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 4814.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96B55480>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 4814.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96B55480>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 4814.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96B55480>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 4814.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96B55480>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 4814.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96B57340>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 4814.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96B57340>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 4814.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96B57340>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 4814.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96B56260>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 4814.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96B56260>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 4814.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96B56260>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 4814.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E3AA70>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 4814.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E3AA70>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 4814.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96E3AA70>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 4814.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96B22F20>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 4814.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96B22F20>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 4814.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96B22F20>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 4765.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E34A60>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 4765.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E34A60>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 4765.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96E34A60>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 4667.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E36CE0>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 4667.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E36CE0>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 4667.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96E36CE0>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 4569.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E20220>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 4569.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E20220>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 4569.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96E20220>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 4471.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E234C0>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 4471.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E234C0>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 4471.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96E234C0>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 4373.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E252A0>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 4373.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E252A0>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 4373.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96E252A0>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 4324.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E27490>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 4324.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E27490>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 4324.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96E27490>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 4324.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E24700>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 4324.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E24700>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 4324.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96E24700>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 4324.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E544C0>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 4324.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E544C0>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 4324.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96E544C0>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 4324.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E57C70>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 4324.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E57C70>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 4324.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96E57C70>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 4324.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96B4F700>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 4324.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96B4F700>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 4324.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96B4F700>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 4324.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96B4D240>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 4324.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96B4D240>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 4324.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96B4D240>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 4324.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E2DA80>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 4324.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E2DA80>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 4324.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96E2DA80>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 4324.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E2CDC0>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 4324.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E2CDC0>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 4324.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96E2CDC0>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 4324.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E2CDC0>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 4324.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E2CDC0>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 4324.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96E2CDC0>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 4324.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E2C880>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 4324.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E2C880>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 4324.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96E2C880>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 4324.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96B5C250>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 4324.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96B5C250>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 4324.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96B5C250>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 4324.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E48B50>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 4324.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E48B50>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 4324.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96E48B50>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 4324.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E48EE0>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 4324.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E48EE0>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 4324.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96E48EE0>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 4324.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96B57A00>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 4324.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96B57A00>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 4324.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96B57A00>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 4324.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96B57B20>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 4324.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96B57B20>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 4324.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96B57B20>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 4275.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96B54700>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 4275.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96B54700>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 4275.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96B54700>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 4177.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96B23700>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 4177.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96B23700>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 4177.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96B23700>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 4079.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E1DDB0>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 4079.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E1DDB0>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 4079.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96E1DDB0>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3981.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E1E110>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3981.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E1E110>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 3981.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96E1E110>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3883.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E244C0>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3883.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E244C0>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 3883.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96E244C0>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3834.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E25660>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3834.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E25660>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 3834.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96E25660>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3834.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E258A0>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3834.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E258A0>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 3834.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96E258A0>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3834.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E08550>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3834.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E08550>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 3834.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96E08550>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3834.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E08280>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3834.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E08280>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 3834.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96E08280>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3834.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96B4CE50>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3834.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96B4CE50>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 3834.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96B4CE50>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3834.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96B4FDC0>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3834.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96B4FDC0>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 3834.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96B4FDC0>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3834.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E580A0>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3834.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E580A0>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 3834.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96E580A0>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3834.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E591B0>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3834.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E591B0>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 3834.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96E591B0>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3834.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E59B70>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3834.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E59B70>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 3834.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96E59B70>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3834.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96B5D7B0>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3834.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96B5D7B0>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 3834.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96B5D7B0>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3834.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96B5ED40>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3834.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96B5ED40>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 3834.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96B5ED40>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3834.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E4E2F0>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3834.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E4E2F0>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 3834.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96E4E2F0>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3834.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96B55990>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3834.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96B55990>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 3834.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96B55990>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3834.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96B551B0>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3834.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96B551B0>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 3834.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96B551B0>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3834.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96B551B0>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3834.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96B551B0>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 3834.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96B551B0>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3785.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96B54130>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3785.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96B54130>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 3785.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96B54130>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3687.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96B55990>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3687.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96B55990>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 3687.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96B55990>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3589.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E24BB0>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3589.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E24BB0>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 3589.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96E24BB0>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3491.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E25990>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3491.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E25990>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 3491.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96E25990>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3393.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E2CEB0>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3393.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E2CEB0>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 3393.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96E2CEB0>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3344.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E2FD00>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3344.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E2FD00>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 3344.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96E2FD00>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3344.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E2FFD0>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3344.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E2FFD0>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 3344.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96E2FFD0>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3344.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96B4F9A0>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3344.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96B4F9A0>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 3344.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96B4F9A0>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3344.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96B4F370>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3344.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96B4F370>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 3344.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96B4F370>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3344.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E35210>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3344.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E35210>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 3344.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96E35210>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3344.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E37BB0>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3344.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E37BB0>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 3344.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96E37BB0>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3344.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E34FD0>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3344.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E34FD0>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 3344.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96E34FD0>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3344.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E39BD0>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3344.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E39BD0>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 3344.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96E39BD0>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3344.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E38550>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3344.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E38550>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 3344.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96E38550>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3344.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96B55B70>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3344.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96B55B70>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 3344.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96B55B70>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3344.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96B55C30>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3344.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96B55C30>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 3344.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96B55C30>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3344.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96B55B70>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3344.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96B55B70>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 3344.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96B55B70>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3344.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96B57010>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3344.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96B57010>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 3344.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96B57010>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3344.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96B5F070>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3344.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96B5F070>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 3344.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96B5F070>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3344.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96B5F1F0>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3344.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96B5F1F0>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 3344.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96B5F1F0>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3295.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E0B250>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3295.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E0B250>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 3295.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96E0B250>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3197.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E08D30>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3197.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E08D30>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 3197.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96E08D30>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3099.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E1D030>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3099.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E1D030>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 3099.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96E1D030>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 3001.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E1F7C0>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 3001.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E1F7C0>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 3001.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96E1F7C0>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_1 notice have_city
+INFO:root:u_1 notice city has 2903.0 fuel
+INFO:root:u_1 going to build city at <lux.game_map.Cell object at 0x0000022F96E4E230>
+INFO:root:u_3 notice have_city
+INFO:root:u_3 notice city has 2903.0 fuel
+INFO:root:u_3 going to build city at <lux.game_map.Cell object at 0x0000022F96E4E230>
+INFO:root:u_4 notice have_city
+INFO:root:u_4 notice city has 2903.0 fuel
+INFO:root:u_4 going to build city at <lux.game_map.Cell object at 0x0000022F96E4E230>
+INFO:root:u_1 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_3 notice has <function build_city at 0x0000022F96DFD480> mission
+INFO:root:u_4 notice has <function build_city at 0x0000022F96DFD480> mission
