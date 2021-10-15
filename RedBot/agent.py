@@ -1,8 +1,10 @@
+from _typeshed import NoneType
 import math, sys
 from os import close
+from typing import Optional
 from lux import game_map
 from lux.game import Game
-from lux.game_map import Cell, RESOURCE_TYPES, GameMap
+from lux.game_map import Cell, RESOURCE_TYPES, GameMap, Position
 from lux.constants import Constants
 from lux.game_constants import GAME_CONSTANTS
 from lux import annotate
@@ -14,7 +16,7 @@ logging.basicConfig(filename="agent.log", level=logging.INFO)
 DIRECTIONS = Constants.DIRECTIONS
 game_state = None
 
-def get_closest_resource_tile(unit: Unit, player: Player, resource_tiles):
+def get_closest_resource_tile(unit: Unit, player: Player, resource_tiles: list[Cell]) -> Optional[Cell]:
     closest_dist = math.inf
     closest_resource_tile = None
     for resource_tile in resource_tiles:
@@ -26,7 +28,7 @@ def get_closest_resource_tile(unit: Unit, player: Player, resource_tiles):
             closest_resource_tile = resource_tile
     return closest_resource_tile
 
-def get_closest_city_tile(unit: Unit, player: Player):
+def get_closest_city_tile(unit: Unit, player: Player) -> Optional[CityTile]:
     closest_dist = math.inf
     closest_city_tile = None
     for k, city in player.cities.items():
@@ -37,7 +39,7 @@ def get_closest_city_tile(unit: Unit, player: Player):
                 closest_city_tile = city_tile
     return closest_city_tile
 
-def get_closest_city(unit: Unit, player: Player):
+def get_closest_city(unit: Unit, player: Player) -> Optional[City]:
     closest_dist = math.inf
     closest_city = None
     for k, city in player.cities.items():
@@ -48,7 +50,7 @@ def get_closest_city(unit: Unit, player: Player):
                 closest_city = city
     return closest_city
 
-def get_closest_empty_tile(tile, player, map, tested_tiles):
+def get_closest_empty_tile(tile: Cell, player: Player, map: GameMap, tested_tiles: list[Cell]) -> Optional[Cell]:
     if (tile in tested_tiles):
         return None
     tested_tiles.append(tile)
@@ -67,7 +69,7 @@ def get_closest_empty_tile(tile, player, map, tested_tiles):
             logging.info(f"Attempt to build out of bounds")
             pass
         # logging.info(f"{tile.pos} + {direction} + {curr_test_tile.pos}")
-        if curr_test_tile != None and curr_test_tile.citytile == None and not curr_test_tile.has_resource():
+        if type(curr_test_tile) == Cell and curr_test_tile.citytile == None and not curr_test_tile.has_resource():
             return curr_test_tile
 
     closest_empty_tile = None
@@ -75,12 +77,14 @@ def get_closest_empty_tile(tile, player, map, tested_tiles):
     # if no adjacent tiles are empty, run closest_empty_tile on each and compare results
     for direction in {DIRECTIONS.NORTH, DIRECTIONS.EAST, DIRECTIONS.SOUTH, DIRECTIONS.WEST}:
         # find closest empty tile to the tile in each direction
+
+        #TODO: actually validate input rather than trycatch
         try:
             curr_test_tile = get_closest_empty_tile(map.get_cell_by_pos(tile.pos.translate(direction, 1)), player, map, tested_tiles)
         except IndexError:
             logging.info(f"Attempt to build out of bounds")
             pass
-        if curr_test_tile != None:
+        if type(curr_test_tile) == Cell:
             # get tile's distance to current tile
             dist = curr_test_tile.pos.distance_to(tile.pos)
             # compare tile's distance
@@ -93,18 +97,18 @@ def get_closest_empty_tile(tile, player, map, tested_tiles):
         # compare the closest tiles of each of the adjacent ones
         # return the closest of those 4
 
-def find_candidate_city(unit: Unit, map: GameMap):
+def find_candidate_city(unit: Unit, map: GameMap) -> Cell:
     return map.get_cell(0,0)
 
-def find_candidate_resource(unit: Unit, map: GameMap):
+def find_candidate_resource(unit: Unit, map: GameMap) -> Cell:
     return map.get_cell(1,1)
 
-def build_city(unit: Unit, city_location: Cell, player: Player, resource_tiles, city_tiles):
+def build_city(unit: Unit, city_location: Cell, player: Player, resource_tiles: list[Cell], city_tiles: list[Cell]) -> str:
     global unit_missions
     global unit_destinations
     if unit.get_cargo_space_left == 0:
         # has resources to build city
-        if unit.pos == city_location:
+        if unit.pos == city_location.pos:
             # build city and complete mission
             unit_missions.pop(unit.id)
             unit_destinations.pop(unit.id)
@@ -115,29 +119,35 @@ def build_city(unit: Unit, city_location: Cell, player: Player, resource_tiles, 
     else:
         # go to closest resource to get fuel
         closest_resource = get_closest_resource_tile(unit, player, resource_tiles)
-        return annotate.line(unit.pos.x, unit.pos.y, closest_resource.pos.x, closest_resource.pos.y)
+        if type(closest_resource) == Cell:
+            return annotate.line(unit.pos.x, unit.pos.y, closest_resource.pos.x, closest_resource.pos.y)
+        else:
+            return annotate.sidetext("No closest Resource")
 
-def get_resource(unit: Unit, res_location: Cell, player: Player, resource_tiles, city_tiles):
+def get_resource(unit: Unit, res_location: Cell, player: Player, resource_tiles, city_tiles) -> str:
     global unit_missions
     global unit_destinations
     if unit.get_cargo_space_left == 0:
         # cargo full: go to nearest city to deposit
         nearest_city_tile = get_closest_city_tile(unit, player)
-        if True in [unit.pos.is_adjacent(tile.pos) for tile in city_tiles]:
-            # arrived at city tile and finish mission
-            unit_missions.pop(unit.id)
-            unit_destinations.pop(unit.id)
-            annotate.line(unit.pos.x, unit.pos.y, nearest_city_tile.pos.x, nearest_city_tile.pos.y)
+        if type(nearest_city_tile) == CityTile:
+            if any([unit.pos.is_adjacent(tile.pos) for tile in city_tiles]):
+                # arrived at city tile and finish mission
+                unit_missions.pop(unit.id)
+                unit_destinations.pop(unit.id)
+                return annotate.line(unit.pos.x, unit.pos.y, nearest_city_tile.pos.x, nearest_city_tile.pos.y)
+            else:
+                # travel to nearest city
+                return annotate.line(unit.pos.x, unit.pos.y, nearest_city_tile.pos.x, nearest_city_tile.pos.y)
         else:
-            # travel to nearest city
-            return annotate.line(unit.pos.x, unit.pos.y, nearest_city_tile.pos.x, nearest_city_tile.pos.y)
+            return annotate.sidetext("No closest City")
     else:
         # cargo empty: go to destination resource
         return annotate.line(unit.pos.x, unit.pos.y, res_location.pos.x, res_location.pos.y)
 
-unit_missions = {}
+unit_missions: Dict[str, function] = {}
 
-unit_destinations = {}
+unit_destinations: Dict[str, Position] = {}
 
 
 def agent(observation, configuration):
@@ -191,7 +201,7 @@ def agent(observation, configuration):
                 unit_missions.pop(unit.id)
                 unit_destinations.pop(unit.id)
             else:
-                if closest_city != None:
+                if type(closest_city) == City:
                     logging.info(f'{unit.id} notice have_city')
                     # we have a city
                     if closest_city.fuel > 500:
@@ -218,12 +228,12 @@ def agent(observation, configuration):
 
 
 
-            if closest_city != None and unit.get_cargo_space_left() == 0 and closest_city.fuel > 500:
+            if type(closest_city) == City and unit.get_cargo_space_left() == 0 and closest_city.fuel > 500:
                 #logging.info(f'Unit: {unit} is going to build a city')
                 # logging.info(f"{unit.id} can build a new city")
                 #find empty tile next to city
                 closest_empty_tile_adj_city = get_closest_empty_tile(game_state.map.get_cell_by_pos(get_closest_city_tile(unit, player).pos), player, game_state.map, [])
-                if closest_empty_tile_adj_city != None:
+                if type(closest_empty_tile_adj_city) == Cell:
                     actions.append(annotate.x(closest_empty_tile_adj_city.pos.x, closest_empty_tile_adj_city.pos.y))
                     # Found empty tile next to nearest city
                     # Prioritize expanding city over making new city
@@ -238,7 +248,7 @@ def agent(observation, configuration):
                     move_dir = unit.pos.direction_to(closest_empty_tile.pos)
                     actions.append(unit.move(move_dir))
 
-            elif closest_city == None:
+            elif type(closest_city) == NoneType:
                 if not game_state.map.get_cell_by_pos(unit.pos).has_resource():
                     actions.append(unit.build_city())
                 else:
@@ -252,14 +262,14 @@ def agent(observation, configuration):
                 if unit.get_cargo_space_left() > 0:
                     # if the unit is a worker and we have space in cargo, lets find the nearest resource tile and try to mine it
                     closest_resource_tile = get_closest_resource_tile(unit, player, resource_tiles)
-                    if closest_resource_tile is not None:
+                    if type(closest_resource_tile) == Cell:
                         #logging.info(f'{unit.id} should go to {closest_resource_tile.pos}')
                         actions.append(unit.move(unit.pos.direction_to(closest_resource_tile.pos)))
                 else:
                     # if unit is a worker and there is no cargo space left, and we have cities, lets return to them
                     if len(player.cities) > 0:
                         closest_city_tile = get_closest_city_tile(unit, player)
-                        if closest_city_tile is not None:
+                        if type(closest_city_tile) == CityTile:
                             move_dir = unit.pos.direction_to(closest_city_tile.pos)
                             actions.append(unit.move(move_dir))
 
