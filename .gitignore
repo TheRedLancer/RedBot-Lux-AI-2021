@@ -1,4 +1,6 @@
 /errorlogs
 /simple
 /replays
+*.tar
+*.gz
 *.bat
